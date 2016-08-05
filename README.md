@@ -1,15 +1,7 @@
 The web application provides both REST web service consuming and building with Node JS.
 The implementation exposes a service at the following entry point: GET/palindromes
 The construct of the application is:
-
-   app|
-      |_app.js
-      |_public|
-              |_index.html
-              |_controllers|
-              |            |_controller.js
-              |_node_module
-              
+ 
 
 You can use "index.html" and "controller.js"  to test it, or directly send a get request "GET /palindromes?search=electricity&limit=3" 
 
