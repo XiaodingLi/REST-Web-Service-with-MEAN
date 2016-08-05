@@ -1,6 +1,5 @@
 The web application provides both REST web service consuming and building with Node JS.
-The implementation exposes a service at the following entry point: 
-GET/palindromes
+The implementation exposes a service at the following entry point: GET/palindromes
 The construct of the application is:
    app|
       |_app.js
